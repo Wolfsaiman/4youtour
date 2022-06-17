@@ -1,0 +1,21 @@
+body {
+
+}
+
+h1 {
+  color: dark;
+}
+
+p {
+  font-family: arial;
+  font-size: 20px;
+}
+
+.text-muted {
+    color: #da4e14!important;
+}
+
+a {
+    color: #0061a7;
+    text-decoration: underline;
+}
